@@ -1,4 +1,4 @@
-#TETRIS CLONE DONE WITH JAVASCRIPT
+# TETRIS CLONE DONE WITH JAVASCRIPT
 
 I did this Tetris clone during my second year of bachelors when we were studying web application development.
 
