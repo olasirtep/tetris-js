@@ -455,7 +455,5 @@ function gravity() {
 function gameOver() {
     clearInterval(hitANDrun);
     clearInterval(refresh)
-    Theme.pause();
-    Theme.removeEventListener("ended", function() {});
     alert("Score : "+score);
 }
